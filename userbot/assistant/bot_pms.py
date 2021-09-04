@@ -104,7 +104,7 @@ async def bot_start(event):
             )
         else:
             start_msg = f"Hey! 👤{mention},\
-                        \nI am {my_mention}'s assistant bot.\
+                        \nI am Lucif3rHun's assistant bot.\
                         \nYou can contact to my master from here."
         buttons = [
             (
